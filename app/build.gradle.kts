@@ -20,7 +20,7 @@ application {
     mainClass = "dev.syahrul.NeoRepeater"
 }
 
-version = "beta"
+version = "v1.0.0"
 
 tasks.jar {
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
